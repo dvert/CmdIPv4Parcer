@@ -10,4 +10,4 @@
 
 **Параметры командной строки**
 
-Параметры: --file-log=<path> --file-output=<path> [--address-start=<IP>] [--address-mask=<mask>]
+Параметры: --file-log=pathToFile --file-output=pathToFile [--address-start=<IP>] [--address-mask=<mask>]
