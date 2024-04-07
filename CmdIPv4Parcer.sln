@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CmdIPv4Parcer", "CmdIPv4Parcer\CmdIPv4Parcer.csproj", "{BC9B8419-F6E8-4A37-AC10-25F97AEAD7B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestParcer", "TestParcer\TestParcer.csproj", "{7150A12B-C3CC-4860-B48F-46291997ECB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC9B8419-F6E8-4A37-AC10-25F97AEAD7B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC9B8419-F6E8-4A37-AC10-25F97AEAD7B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC9B8419-F6E8-4A37-AC10-25F97AEAD7B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC9B8419-F6E8-4A37-AC10-25F97AEAD7B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7150A12B-C3CC-4860-B48F-46291997ECB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7150A12B-C3CC-4860-B48F-46291997ECB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7150A12B-C3CC-4860-B48F-46291997ECB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7150A12B-C3CC-4860-B48F-46291997ECB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {702EE493-ECF0-4510-ADA5-C6E6C58D3CA5}
+	EndGlobalSection
+EndGlobal
