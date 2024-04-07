@@ -5,7 +5,12 @@ VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CmdIPv4Parcer", "CmdIPv4Parcer\CmdIPv4Parcer.csproj", "{BC9B8419-F6E8-4A37-AC10-25F97AEAD7B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestParcer", "TestParcer\TestParcer.csproj", "{7150A12B-C3CC-4860-B48F-46291997ECB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestParcer", "TestParcer\TestParcer.csproj", "{7150A12B-C3CC-4860-B48F-46291997ECB0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CompileProject", "CompileProject", "{831DBF4E-4B63-44E8-BF40-94F61C77EB1F}"
+	ProjectSection(SolutionItems) = preProject
+		CmdIPv4Parcer\bin\Debug\net8.0\CmdIPv4Parcer.exe = CmdIPv4Parcer\bin\Debug\net8.0\CmdIPv4Parcer.exe
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
