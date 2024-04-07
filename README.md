@@ -8,6 +8,10 @@
   
 Каждая запись должна содержать IP-адрес и метку времени, разделенные пробелом.
 
+**log_file.txt** - исходный файл
+**out_file.txt** - полученный файл
+
 **Параметры командной строки**
 
 Параметры: --file-log=pathToFile --file-output=pathToFile [--address-start=<IP>] [--address-mask=<mask>]
+
